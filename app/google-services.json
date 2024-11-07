@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56769350340",
+    "project_id": "hypercare-application",
+    "storage_bucket": "hypercare-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56769350340:android:9dc5aebeda6497a774d791",
+        "android_client_info": {
+          "package_name": "com.example.hypercareapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEWcZV5_Xe3HvpMEE2VmOIa-28V3w4Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
